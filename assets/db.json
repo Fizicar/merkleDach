@@ -1,0 +1,96 @@
+{
+   "inspiration":{
+      "InspirationSearchProposalLabel":"Beliebte Themen:",
+      "Filters":[
+         {
+            "id":"192c0431-83eb-4b59-a790-d1f204d31143",
+            "fields":{
+               "DisplayName":{
+                  "value":"Weihnachten"
+               }
+            }
+         },
+         {
+            "id":"978c99e9-fb62-4287-ab47-10886c8ca5e6",
+            "fields":{
+               "DisplayName":{
+                  "value":"Herbst"
+               }
+            }
+         },
+         {
+            "id":"978c39e9-fc62-4257-ab47-10886c8ca5e6",
+            "fields":{
+               "DisplayName":{
+                  "value":"Outdoor Sport 2"
+               }
+            }
+         }
+      ],
+      "TopicDetails":[
+         {
+            "PageTeaserType":"small",
+            "PageTeaserTitle":"Frühling Farben",
+            "PageTeaserSubtitle":"Beauty",
+            "PageTeaserLabel":"Sponserd By Nike",
+            "PageTeaserImage":{
+               "src":"placeholder/italy.jpeg",
+               "alt":"Frühling Farben"
+            },
+            "PageTeaserUrl":"https://www.google.com/search?q=italy"
+         },
+         {
+            "PageTeaserType":"small",
+            "PageTeaserTitle":"Alle Taschen in Blau für den Frühling",
+            "PageTeaserSubtitle":"Taschen & Koffer",
+            "PageTeaserImage":{
+               "src":"placeholder/smile.jpeg",
+               "alt":"Taschen & Koffer"
+            },
+            "PageTeaserUrl":"https://www.google.com/search?q=smile"
+         },
+         {
+            "PageTeaserType":"small",
+            "PageTeaserTitle":"Wüsten Träume werden war",
+            "PageTeaserSubtitle":"Bekleidung",
+            "PageTeaserLabel":"J Magazine",
+            "PageTeaserImage":{
+               "src":"placeholder/lemons.jpeg",
+               "alt":"Wüsten Träume werden war"
+            },
+            "PageTeaserUrl":"https://www.google.com/search?q=lemons"
+         },
+         {
+            "PageTeaserType":"shopTheLook",
+            "PageTeaserImage":{
+               "src":"placeholder/shopTheLook.jpeg",
+               "alt":"Den look kaufen"
+            },
+            "PageTeaserUrl":"https://www.google.com/search?q=shopTheLook",
+            "PageTeaserLinkLabel":"Den look kaufen",
+            "PageTeaserImageCaption":"Hose: Hugo Boss, Hemd: Calvin Klein"
+         },
+         {
+            "PageTeaserType":"small",
+            "PageTeaserTitle":"Warme Jacken für die Kälte",
+            "PageTeaserSubtitle":"Männer Mode",
+            "PageTeaserLabel":"Sponsored By golden goose",
+            "PageTeaserImage":{
+               "src":"placeholder/model.jpeg",
+               "alt":"Warme Jacken für die Kälte"
+            },
+            "PageTeaserUrl":"https://www.google.com/search?q=model"
+         },
+         {
+            "PageTeaserType":"large",
+            "PageTeaserTitle":"Hochzeits Tips für die schnell entschlossenen Paare",
+            "PageTeaserSubtitle":"Events",
+            "PageTeaserImage":{
+               "src":"placeholder/christmas.jpeg",
+               "alt":"Hochzeits Tips für die schnell entschlossenen Paare"
+            },
+            "PageTeaserUrl":"https://www.google.com/search?q=christmas"
+         }
+      ]
+   }
+}
